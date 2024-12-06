@@ -1,1 +1,1 @@
-This is a web server that announces whether or not a particular Go version has been tagged.
+Advent of Code 2024, using go for fun :)
